@@ -1,0 +1,27 @@
+{
+  "name": "api_test_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinoSaulo/api_test_challenge.git"
+  },
+  "keywords": [
+    "cypress",
+    "api",
+    "test"
+  ],
+  "author": "Saulo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinoSaulo/api_test_challenge/issues"
+  },
+  "homepage": "https://github.com/DinoSaulo/api_test_challenge#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
